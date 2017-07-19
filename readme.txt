@@ -1,4 +1,3 @@
-git是个已经分发了的版本控制工具。
-git是个免费工具，遵循GPL协议。
-
-放假回来了，我要修改下我提交的files，但是忘记了干过啥，看看有啥变化
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
